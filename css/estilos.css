@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+.textito1 {
+    background-color: lightgrey;
+    width: 150px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    float:right
+}
+
+.textito2 {
+    background-color: lightgrey;
+    width: 150px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+.copa img {
+    width: 1332px;
+    height: 530px;
+
+}
