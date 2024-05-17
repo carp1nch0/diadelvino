@@ -3,24 +3,27 @@ h1 {
 }
 
 .textito1 {
-    background-color: lightgrey;
-    width: 150px;
+    background-color:lightgray;
     border: 15px solid green;
+    width: 180px;
     padding: 50px;
     margin: 20px;
-    float:right
+    float: left;
+
 }
 
 .textito2 {
     background-color: lightgrey;
-    width: 150px;
+    width: 180px;
     border: 15px solid green;
     padding: 50px;
     margin: 20px;
+    float: right;
 }
 
 .copa img {
-    width: 1332px;
-    height: 530px;
-
+    width: 586px;
+    height: 430px;
+    float: left;
+    margin: 20px;
 }
